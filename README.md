@@ -26,7 +26,7 @@ Every Lunar New Year, my aunt needs to check Sao Hạn information for each fami
 
 
 
-##### **2. Key Decisions**
+### **2. Key Decisions**
 
 * Web app instead of asking people → Always available, saves time and effort
 * Web app instead of internet searching → Fast search
@@ -34,11 +34,8 @@ Every Lunar New Year, my aunt needs to check Sao Hạn information for each fami
 
 
 
-##### **3. Core Features**
+### **3. Core Features**
 
 * Search pages customization
 * Datasets import and management
 * Search result view
-
-
-
