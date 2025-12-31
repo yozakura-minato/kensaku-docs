@@ -11,13 +11,13 @@ You are now in the **Document Repository**. Explore more at:
 
 
 
-##### **1. The Story**
+### **1. The Story**
 
-Problem:
+##### **Problem:**
 
-     Every Lunar New Year, my aunt needs to check Sao Hạn information for each family member—data that changes yearly.
+Every Lunar New Year, my aunt needs to check Sao Hạn information for each family member—data that changes yearly.
 
-Solutions:
+##### **Solutions:**
 
 * As a low-tech user, she must **ask** others who know this information.
 * To help her, I first **searched the internet**, but they are post so it is difficult to query.
@@ -28,17 +28,9 @@ Solutions:
 
 ##### **2. Key Decisions**
 
-* Web app instead of asking people
-
-      → Always available, saves time and effort
-
-* Web app instead of internet searching
-
-      → Fast search
-
-* Web app instead of Google Spreadsheet
-
-     → Lower maintenance effort and better user experience
+* Web app instead of asking people → Always available, saves time and effort
+* Web app instead of internet searching → Fast search
+* Web app instead of Google Spreadsheet → Lower maintenance effort and better user experience
 
 
 
