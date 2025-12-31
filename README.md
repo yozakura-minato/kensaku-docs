@@ -30,7 +30,7 @@ Every Lunar New Year, my aunt needs to check Sao Hạn information for each fami
 
 * Web app instead of asking people → Always available, saves time and effort
 * Web app instead of internet searching → Fast search
-* Web app instead of Google Spreadsheet → Lower maintenance effort and better user experience
+* Web app instead of Google Spreadsheet file → Lower maintenance effort and better user experience
 
 
 
