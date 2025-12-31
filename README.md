@@ -4,10 +4,10 @@ A web application that allows users to create a simple and customizable search p
 
 
 
-You are now in the **Document Repository**. Explore more at:
+You are now in the **Document repository**. Explore more at:
 
-* Frontend repository: https://github.com/yozakura-minato/kensaku-fe
-* Backend repository: https://github.com/yozakura-minato/kensaku-be
+* [Frontend repository](https://github.com/yozakura-minato/kensaku-fe)
+* [Backend repository](https://github.com/yozakura-minato/kensaku-be)
 
 
 
