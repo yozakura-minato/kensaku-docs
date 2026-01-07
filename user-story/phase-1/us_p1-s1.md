@@ -15,7 +15,7 @@ I want to sign up for KenSaku (with display name, email, password and confirm pa
 1. Display name: 1-50 characters, contains only (upper/lower) alphabet characters  and numbers.
 2. Email: is unique, must pass the HTML native email validation.
 3. Password: 8-50 characters, must contain at least one upper letter, one lower letter, one special character and one number.
-4. Confirm new password: must match the New password
+4. Confirm password: must match the New password
 
 ### **#1.1.2 - Sign In**
 **User story:**
