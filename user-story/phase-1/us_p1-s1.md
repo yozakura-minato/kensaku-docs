@@ -12,9 +12,9 @@ As an unauthenticated user,
 I want to sign up for KenSaku (with display name, email, password and confirm password), so that I can have an account. 
  
 **Acceptance criteria:**
-1. Display name: 1-50 characters, contains only (upper/lower) alphabet characters  and numbers.
+1. Display name: 3-30 characters, contains only (upper/lower) alphabet characters, spaces  and numbers.
 2. Email: is unique, must pass the HTML native email validation.
-3. Password: 8-50 characters, must contain at least one upper letter, one lower letter, one special character and one number.
+3. Password: 8-50 characters, must contain at least two of following character types: upper letter, lower letter, special character and number.
 4. Confirm password: must match the New password
 
 ### **#1.1.2 - Sign In**
@@ -41,7 +41,7 @@ so that I can keep my account secure.
 
 **Acceptance criteria:**
 1. Current password: must match the account password.
-2. New password: 8-50 characters, must contain at least one upper letter, one lower letter, one special character and one number.
+2. New password: 8-50 characters, must contain at least two of following character types: upper letter, lower letter, special character and number.
 3. Confirm new password: must match the New password
 
 ### **#1.1.5 - Reset Password**
@@ -52,5 +52,5 @@ so that I can sign in to KenSaku with new password.
 
 **Acceptance criteria:**
 1. Email: must match the account email.
-2. New password: 8-50 characters, must contain at least one upper letter, one lower letter, one special character and one number.
+2. New password: 8-50 characters, must contain at least two of following character types: upper letter, lower letter, special character and number.
 3. Confirm new password: must match the New password
