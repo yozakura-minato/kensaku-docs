@@ -30,7 +30,7 @@ so that I can use the features available to authenticated user.
 
 **Acceptance criteria:**
 
-1. Email: must match the account email.
+1. Email: must pass the HTML native email validation, must match the account email.
 2. Password: must match the account password.
 
 ### **#1.1.3 - Sign Out**
